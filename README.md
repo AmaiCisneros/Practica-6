@@ -105,7 +105,7 @@ delay (2000);
 }
 
 Conexiones :
-![]()
+![](https://github.com/AmaiCisneros/Practica-6/blob/main/Captura%20de%20pantalla%202024-01-19%20185937.png)
 
 
 - Instrucciónes de operación

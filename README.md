@@ -105,7 +105,7 @@ delay (2000);
 }
 
 Conexiones :
-
+![]()
 
 
 - Instrucciónes de operación
@@ -114,5 +114,6 @@ Visualizar los datos en el monitor serial.
 Colocar la distancia dando doble click al sensor Ultrasonico
 Resultados
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen;
+![]()
 
 

@@ -114,6 +114,6 @@ Visualizar los datos en el monitor serial.
 Colocar la distancia dando doble click al sensor Ultrasonico
 Resultados
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen;
-![]()
+![](https://github.com/AmaiCisneros/Practica-6/blob/main/Captura%20de%20pantalla%202024-01-19%20190110.png)
 
 
